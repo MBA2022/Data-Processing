@@ -1,7 +1,9 @@
 import javax.crypto.spec.PSource;
 
 public class Main {
-
+public static int tst(){
+    return 5 ;
+}
     public  static void pr(){
         System.out.println( " slvjl majdi ");
     }
